@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/anilpujaraofficial/my-portfolio#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "css": "^3.0.0"
   }
 }
